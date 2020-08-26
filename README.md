@@ -1,2 +1,4 @@
 # VGCN-PyTorch
-PyTorch Implementation of TCSVT 2020 "Blind Omnidirectional Image Quality Assessment with Viewport Oriented Graph Convolutional Networks"
+
+Thanks for your attention. In this repo, we provide the codes for the paper [Blind Omnidirectional Image Quality Assessment with Viewport Oriented Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9163077).
+
