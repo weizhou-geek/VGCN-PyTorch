@@ -8,7 +8,8 @@ Thanks for your attention. In this repo, we provide the codes for the paper [[Bl
 ## Citation
 You may cite it in your paper. Thanks a lot.
 
-```@article{xu2020blind,
+```
+@article{xu2020blind,
   title={Blind Omnidirectional Image Quality Assessment with Viewport Oriented Graph Convolutional Networks},
   author={Xu, Jiahua and Zhou, Wei and Chen, Zhibo},
   journal={arXiv preprint arXiv:2002.09140},
