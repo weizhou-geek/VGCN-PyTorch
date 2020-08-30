@@ -10,6 +10,9 @@ Thanks for your attention. In this repo, we provide the codes for the paper [[Bl
 + torch==1.1.0
 + Pillow==6.2.0
 
+## Install
+To Install all the dependencies, run pip install -r requirements.txt
+
 ## Citation
 You may cite it in your paper. Thanks a lot.
 
