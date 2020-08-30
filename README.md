@@ -14,8 +14,8 @@ Thanks for your attention. In this repo, we provide the codes for the paper [[Bl
 To Install all the dependencies, run pip install -r requirements.txt
 
 ## Prepare Data
-+ Download [cviqd_local_epoch.pth](https://drive.google.com/file/d/1ROT4InmAEKUisfNbMHwWpWb0nvlDhoSe/view?usp=sharing), [cviqd_global_epoch.pth](https://drive.google.com/file/d/1ggxGi2uvmL3n0BtYLC-HCrWbhna2TkFQ/view?usp=sharing), and [cviqd_model.pth](https://drive.google.com/file/d/19WJHBkogveax0b3IgpWeRco5xXgKQvFl/view?usp=sharing)
-+ Download 
++ Obtain [cviqd_local_epoch.pth](https://drive.google.com/file/d/1ROT4InmAEKUisfNbMHwWpWb0nvlDhoSe/view?usp=sharing), [cviqd_global_epoch.pth](https://drive.google.com/file/d/1ggxGi2uvmL3n0BtYLC-HCrWbhna2TkFQ/view?usp=sharing), and [cviqd_model.pth](https://drive.google.com/file/d/19WJHBkogveax0b3IgpWeRco5xXgKQvFl/view?usp=sharing)
++ Download [database](https://drive.google.com/drive/folders/1LqQFIms_46s7uybos83-5EgMAH2r6OCy?usp=sharing)
 
 ## Training
 ```
