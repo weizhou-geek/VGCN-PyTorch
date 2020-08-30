@@ -13,6 +13,16 @@ Thanks for your attention. In this repo, we provide the codes for the paper [[Bl
 ## Install
 To Install all the dependencies, run pip install -r requirements.txt
 
+## Training
+```
+python main.py --root1 cviqd_local_epoch.pth --root2 cviqd_global_epoch.pth --save test
+```
+
+## Testing
+```
+python main.py --resume cviqd_model.pth --skip_training
+```
+
 ## Citation
 You may cite it in your paper. Thanks a lot.
 
