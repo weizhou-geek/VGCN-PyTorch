@@ -3,7 +3,12 @@
 Thanks for your attention. In this repo, we provide the codes for the paper [[Blind Omnidirectional Image Quality Assessment with Viewport Oriented Graph Convolutional Networks]](https://ieeexplore.ieee.org/document/9163077).
 
 ## Prerequisites
-
++ scipy==1.2.1
++ opencv_python==4.1.0.25
++ numpy==1.16.4
++ torchvision==0.3.0
++ torch==1.1.0
++ Pillow==6.2.0
 
 ## Citation
 You may cite it in your paper. Thanks a lot.
