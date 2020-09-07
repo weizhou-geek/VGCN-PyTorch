@@ -11,7 +11,7 @@ Thanks for your attention. In this repo, we provide the codes for the paper [[Bl
 + Pillow==6.2.0
 
 ## Install
-To Install all the dependencies in prerequisites
+To install all the dependencies in prerequisites
 
 ## Prepare Data
 + Obtain [cviqd_local_epoch.pth](https://drive.google.com/file/d/1ROT4InmAEKUisfNbMHwWpWb0nvlDhoSe/view?usp=sharing), [cviqd_global_epoch.pth](https://drive.google.com/file/d/1ggxGi2uvmL3n0BtYLC-HCrWbhna2TkFQ/view?usp=sharing), and [cviqd_model.pth](https://drive.google.com/file/d/19WJHBkogveax0b3IgpWeRco5xXgKQvFl/view?usp=sharing)
