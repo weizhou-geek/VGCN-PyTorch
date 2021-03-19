@@ -19,7 +19,7 @@ To install all the dependencies in prerequisites
 
 ## FoV Selection
 ```
-matlab demo.m
+matlab fov_selection/demo.m
 ```
 
 ## Training
