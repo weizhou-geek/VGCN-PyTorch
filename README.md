@@ -37,10 +37,11 @@ You may cite it in your paper. Thanks a lot.
 
 ```
 @article{xu2020blind,
-  title={Blind Omnidirectional Image Quality Assessment with Viewport Oriented Graph Convolutional Networks},
+  title={Blind omnidirectional image quality assessment with viewport oriented graph convolutional networks},
   author={Xu, Jiahua and Zhou, Wei and Chen, Zhibo},
-  journal={arXiv preprint arXiv:2002.09140},
-  year={2020}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 
